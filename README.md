@@ -1,2 +1,1 @@
-# LangChain
- 
+欢迎参与LangChain开源课程学习！这个系列课程将深入解析最新的LangChain使用方法、实战案例、源码讲解，帮助你理解并掌握LLM和LangChain。
